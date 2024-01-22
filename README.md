@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yonas Million and i am a software engineer in debrebrhan university
+- 👋 Hi, I’m Yonas Million and i am a software engineer in debre birhan university
 - 👀 I’m interested in Software development or programming
 - 🌱 I’m currently learning web development with vuejs and laravel and mobile application development with flutter
 - 💞️ I’m looking to collaborate on web and android app development
